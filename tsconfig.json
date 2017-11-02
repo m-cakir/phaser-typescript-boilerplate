@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "amd",
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "sourceMap": true,
+        "rootDir": "src",
+        "outFile": "dist/js/app.js"
+    },
+    "exclude": [
+        "tsd/phaser.d.ts",
+        "tsd/pixi.d.ts"
+    ]
+}
